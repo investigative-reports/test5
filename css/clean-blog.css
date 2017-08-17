@@ -24,12 +24,12 @@ h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
 
 a {
-  color: #333333;
+  color: #0000ff;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s; }
   a:focus, a:hover {
-    color: #0085A1; }
+    color: #333399; }
 
 a img:focus, a img:hover {
   cursor: zoom-in; }
@@ -207,10 +207,10 @@ header.masthead {
       font-size: 30px; } }
 
 .post-preview > a {
-  color: #333333; }
+  color: #0000ff; }
   .post-preview > a:focus, .post-preview > a:hover {
     text-decoration: none;
-    color: #0085A1; }
+    color: #333399; }
   .post-preview > a > .post-title {
     font-size: 30px;
     margin-top: 30px;
